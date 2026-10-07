@@ -1,0 +1,5 @@
+langgraph==0.0.20
+anthropic==0.7.1
+prometheus-client==0.17.1
+requests==2.31.0
+pydantic==2.5.0
